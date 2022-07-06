@@ -370,6 +370,6 @@ body, html {
     }
     .post-footer {
         margin-right: 0px;
-        text-align: center;
+        justify-content: center;
     }
 }
